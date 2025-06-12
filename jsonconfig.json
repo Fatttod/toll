@@ -180,7 +180,8 @@
         "\ud83c\udde6\ud83c\uddf2 (AM) Proitlab LLC\r",
         "\ud83c\udde6\ud83c\uddf2 (AM) GLOBAL CONNECTIVITY SOLUTIONS LLP\r",
         "Best Latency",
-        "direct"
+        "direct",
+        "block"
       ]
     },
     {
@@ -204,7 +205,8 @@
         "\ud83c\udde6\ud83c\uddf1 (AL) Albanian Hosting SH.P.K. t/a AlbHost SH.P.K.\r",
         "\ud83c\udde6\ud83c\uddf2 (AM) Proitlab LLC\r",
         "\ud83c\udde6\ud83c\uddf2 (AM) GLOBAL CONNECTIVITY SOLUTIONS LLP\r",
-        "direct"
+        "direct",
+        "block"
       ],
       "url": "https://www.gstatic.com/generate_204",
       "interval": "30s"
@@ -229,7 +231,9 @@
         "\ud83c\udde6\ud83c\uddea (AE) ITGLOBAL COM DMCC\r",
         "\ud83c\udde6\ud83c\uddf1 (AL) Albanian Hosting SH.P.K. t/a AlbHost SH.P.K.\r",
         "\ud83c\udde6\ud83c\uddf2 (AM) Proitlab LLC\r",
-        "\ud83c\udde6\ud83c\uddf2 (AM) GLOBAL CONNECTIVITY SOLUTIONS LLP\r"
+        "\ud83c\udde6\ud83c\uddf2 (AM) GLOBAL CONNECTIVITY SOLUTIONS LLP\r",
+        "direct",
+        "block"
       ]
     },
     {
@@ -256,7 +260,8 @@
         "direct",
         "Internet",
         "Best Latency",
-        "Lock Region ID"
+        "Lock Region ID",
+        "block"
       ]
     },
     {
@@ -283,7 +288,8 @@
         "direct",
         "Internet",
         "Best Latency",
-        "Lock Region ID"
+        "Lock Region ID",
+        "block"
       ]
     },
     {
@@ -310,7 +316,8 @@
         "direct",
         "Internet",
         "Best Latency",
-        "Lock Region ID"
+        "Lock Region ID",
+        "block"
       ]
     },
     {
@@ -335,7 +342,8 @@
         "\ud83c\udde6\ud83c\uddf2 (AM) Proitlab LLC\r",
         "\ud83c\udde6\ud83c\uddf2 (AM) GLOBAL CONNECTIVITY SOLUTIONS LLP\r",
         "block",
-        "Internet"
+        "Internet",
+        "direct"
       ]
     },
     {
@@ -360,16 +368,13 @@
         "\ud83c\udde6\ud83c\uddf2 (AM) Proitlab LLC\r",
         "\ud83c\udde6\ud83c\uddf2 (AM) GLOBAL CONNECTIVITY SOLUTIONS LLP\r",
         "block",
-        "Internet"
+        "Internet",
+        "direct"
       ]
     },
     {
       "type": "direct",
       "tag": "bypass"
-    },
-    {
-      "type": "dns",
-      "tag": "dns-out"
     },
     {
       "tag": "\ud83c\udde6\ud83c\udde9 (AD) Andorra Telecom\r",
@@ -398,7 +403,7 @@
       "type": "trojan",
       "server": "quiz.int.vidio.com",
       "server_port": 443,
-      "password": "74d9d093-1aba-4775-9fd1-4194368af2f4",
+      "password": "837d906f-545a-447e-92c5-c79a7ea229d9",
       "network": "ws",
       "tls": {
         "enabled": true,
@@ -408,7 +413,7 @@
       },
       "transport": {
         "type": "ws",
-        "websocket_path": "/193.123.80.245-443",
+        "websocket_path": "/139.185.50.5-14594",
         "websocket_headers": {
           "Host": "quiz.int.vidio.com.admin.ari-andika2.site"
         },
@@ -442,7 +447,7 @@
       "type": "trojan",
       "server": "quiz.int.vidio.com",
       "server_port": 443,
-      "password": "4dc80131-f050-4953-aa8f-2efa6e546fff",
+      "password": "8ba8bede-8d7d-4742-a7a1-86cb2d8f6e1d",
       "network": "ws",
       "tls": {
         "enabled": true,
@@ -452,7 +457,7 @@
       },
       "transport": {
         "type": "ws",
-        "websocket_path": "/195.158.230.134-2053",
+        "websocket_path": "/217.195.200.138-443",
         "websocket_headers": {
           "Host": "quiz.int.vidio.com.admin.ari-andika2.site"
         },
@@ -508,7 +513,7 @@
       "type": "trojan",
       "server": "quiz.int.vidio.com",
       "server_port": 443,
-      "password": "715610aa-a654-4ef7-929f-fd3a98eff5b1",
+      "password": "c1a17c35-4b6a-463b-87d3-e2fe9b99e5c6",
       "network": "ws",
       "tls": {
         "enabled": true,
@@ -518,7 +523,7 @@
       },
       "transport": {
         "type": "ws",
-        "websocket_path": "/176.97.67.38-443",
+        "websocket_path": "/176.97.66.175-443",
         "websocket_headers": {
           "Host": "quiz.int.vidio.com.admin.ari-andika2.site"
         },
@@ -552,7 +557,7 @@
       "type": "trojan",
       "server": "quiz.int.vidio.com",
       "server_port": 443,
-      "password": "560e50b3-2145-422f-913f-745ddfc481f2",
+      "password": "5600a901-7494-4404-b599-87f1c1f5628e",
       "network": "ws",
       "tls": {
         "enabled": true,
@@ -562,7 +567,7 @@
       },
       "transport": {
         "type": "ws",
-        "websocket_path": "/3.29.115.162-8443",
+        "websocket_path": "/3.28.62.7-443",
         "websocket_headers": {
           "Host": "quiz.int.vidio.com.admin.ari-andika2.site"
         },
@@ -618,7 +623,7 @@
       "type": "trojan",
       "server": "quiz.int.vidio.com",
       "server_port": 443,
-      "password": "694c91c2-a9ce-4373-a7be-2bedbae9ebd9",
+      "password": "4830fa9e-9572-43a7-b58f-38e85a054d47",
       "network": "ws",
       "tls": {
         "enabled": true,
@@ -628,7 +633,7 @@
       },
       "transport": {
         "type": "ws",
-        "websocket_path": "/85.237.211.113-2096",
+        "websocket_path": "/85.237.211.59-8443",
         "websocket_headers": {
           "Host": "quiz.int.vidio.com.admin.ari-andika2.site"
         },
@@ -662,7 +667,7 @@
       "type": "trojan",
       "server": "quiz.int.vidio.com",
       "server_port": 443,
-      "password": "20691b5d-fef1-4e49-a440-e78da40a6f39",
+      "password": "2100140e-dfb4-47eb-865d-1b95b68c0e43",
       "network": "ws",
       "tls": {
         "enabled": true,
@@ -672,7 +677,7 @@
       },
       "transport": {
         "type": "ws",
-        "websocket_path": "/185.209.49.17-8443",
+        "websocket_path": "/185.209.49.17-2053",
         "websocket_headers": {
           "Host": "quiz.int.vidio.com.admin.ari-andika2.site"
         },
@@ -684,7 +689,7 @@
       "type": "trojan",
       "server": "quiz.int.vidio.com",
       "server_port": 443,
-      "password": "783e5212-2851-486b-9262-3d1fc91eb56b",
+      "password": "249f2b2e-dd10-4db3-a9c0-b59763502e6e",
       "network": "ws",
       "tls": {
         "enabled": true,
@@ -694,7 +699,7 @@
       },
       "transport": {
         "type": "ws",
-        "websocket_path": "/31.41.33.214-4333",
+        "websocket_path": "/31.41.33.215-4333",
         "websocket_headers": {
           "Host": "quiz.int.vidio.com.admin.ari-andika2.site"
         },
@@ -706,7 +711,7 @@
       "type": "trojan",
       "server": "quiz.int.vidio.com",
       "server_port": 443,
-      "password": "ba152f3b-2c74-4e7c-a6c0-751f9f1f6e75",
+      "password": "a6a78f2e-1da5-4f72-a1ef-6ae892d39b69",
       "network": "ws",
       "tls": {
         "enabled": true,
@@ -716,7 +721,7 @@
       },
       "transport": {
         "type": "ws",
-        "websocket_path": "/2.56.206.64-443",
+        "websocket_path": "/2.56.206.114-2053",
         "websocket_headers": {
           "Host": "quiz.int.vidio.com.admin.ari-andika2.site"
         },
@@ -744,6 +749,18 @@
         },
         "grpc_service_name": ""
       }
+    },
+    {
+      "type": "dns",
+      "tag": "dns-out"
+    },
+    {
+      "type": "direct",
+      "tag": "direct"
+    },
+    {
+      "type": "block",
+      "tag": "block"
     }
   ],
   "route": {
