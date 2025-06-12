@@ -162,51 +162,36 @@
       "tag": "Internet",
       "type": "selector",
       "outbounds": [
-        "\ud83c\udde6\ud83c\udde9 (AD) Andorra Telecom\r",
-        "\ud83c\udde6\ud83c\uddea (AE) Oracle Corporation\r",
-        "\ud83c\udde6\ud83c\uddea (AE) UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED\r",
-        "\ud83c\udde6\ud83c\uddea (AE) G-Core Labs Customer assignment\r",
-        "\ud83c\udde6\ud83c\uddea (AE) Zenlayer Inc\r",
-        "\ud83c\udde6\ud83c\uddea (AE) Oracle Svenska AB\r",
-        "\ud83c\udde6\ud83c\uddea (AE) 3nt solutions LLP\r",
-        "\ud83c\udde6\ud83c\uddea (AE) 3NT SOLUTIONS LLP\r",
-        "\ud83c\udde6\ud83c\uddea (AE) Amazon Data Services UAE\r",
-        "\ud83c\udde6\ud83c\uddea (AE) IROKO Networks Corporation\r",
-        "\ud83c\udde6\ud83c\uddea (AE) ITEL\r",
-        "\ud83c\udde6\ud83c\uddea (AE) Private Customer\r",
-        "\ud83c\udde6\ud83c\uddea (AE) BlueVPS OU\r",
-        "\ud83c\udde6\ud83c\uddea (AE) ITGLOBAL COM DMCC\r",
-        "\ud83c\udde6\ud83c\uddf1 (AL) Albanian Hosting SH.P.K. t/a AlbHost SH.P.K.\r",
-        "\ud83c\udde6\ud83c\uddf2 (AM) Proitlab LLC\r",
-        "\ud83c\udde6\ud83c\uddf2 (AM) GLOBAL CONNECTIVITY SOLUTIONS LLP\r",
         "Best Latency",
-        "direct",
-        "block"
+        "Lock Region ID",
+        "\ud83c\udf0e FR - OVHcloud #1",
+        "\ud83c\udf0e FR - OVHcloud #2",
+        "\ud83c\udf0e DE - TalkTalk #3",
+        "\ud83c\udf0e SE - Aeza International #4",
+        "\ud83c\udf0e DE - Aeza International #5",
+        "\ud83c\udf0e NL - WebHorizon Internet Services #6",
+        "\ud83c\udf0e NL - SERVA ONE LTD #7",
+        "\ud83c\udf0e FR - OVHcloud #8",
+        "\ud83c\udf0e GB - Aeza International #9",
+        "\ud83c\udf0e KR - KT #10",
+        "direct"
       ]
     },
     {
       "type": "urltest",
       "tag": "Best Latency",
       "outbounds": [
-        "\ud83c\udde6\ud83c\udde9 (AD) Andorra Telecom\r",
-        "\ud83c\udde6\ud83c\uddea (AE) Oracle Corporation\r",
-        "\ud83c\udde6\ud83c\uddea (AE) UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED\r",
-        "\ud83c\udde6\ud83c\uddea (AE) G-Core Labs Customer assignment\r",
-        "\ud83c\udde6\ud83c\uddea (AE) Zenlayer Inc\r",
-        "\ud83c\udde6\ud83c\uddea (AE) Oracle Svenska AB\r",
-        "\ud83c\udde6\ud83c\uddea (AE) 3nt solutions LLP\r",
-        "\ud83c\udde6\ud83c\uddea (AE) 3NT SOLUTIONS LLP\r",
-        "\ud83c\udde6\ud83c\uddea (AE) Amazon Data Services UAE\r",
-        "\ud83c\udde6\ud83c\uddea (AE) IROKO Networks Corporation\r",
-        "\ud83c\udde6\ud83c\uddea (AE) ITEL\r",
-        "\ud83c\udde6\ud83c\uddea (AE) Private Customer\r",
-        "\ud83c\udde6\ud83c\uddea (AE) BlueVPS OU\r",
-        "\ud83c\udde6\ud83c\uddea (AE) ITGLOBAL COM DMCC\r",
-        "\ud83c\udde6\ud83c\uddf1 (AL) Albanian Hosting SH.P.K. t/a AlbHost SH.P.K.\r",
-        "\ud83c\udde6\ud83c\uddf2 (AM) Proitlab LLC\r",
-        "\ud83c\udde6\ud83c\uddf2 (AM) GLOBAL CONNECTIVITY SOLUTIONS LLP\r",
-        "direct",
-        "block"
+        "\ud83c\udf0e FR - OVHcloud #1",
+        "\ud83c\udf0e FR - OVHcloud #2",
+        "\ud83c\udf0e DE - TalkTalk #3",
+        "\ud83c\udf0e SE - Aeza International #4",
+        "\ud83c\udf0e DE - Aeza International #5",
+        "\ud83c\udf0e NL - WebHorizon Internet Services #6",
+        "\ud83c\udf0e NL - SERVA ONE LTD #7",
+        "\ud83c\udf0e FR - OVHcloud #8",
+        "\ud83c\udf0e GB - Aeza International #9",
+        "\ud83c\udf0e KR - KT #10",
+        "direct"
       ],
       "url": "https://www.gstatic.com/generate_204",
       "interval": "30s"
@@ -215,552 +200,290 @@
       "type": "selector",
       "tag": "Lock Region ID",
       "outbounds": [
-        "\ud83c\udde6\ud83c\udde9 (AD) Andorra Telecom\r",
-        "\ud83c\udde6\ud83c\uddea (AE) Oracle Corporation\r",
-        "\ud83c\udde6\ud83c\uddea (AE) UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED\r",
-        "\ud83c\udde6\ud83c\uddea (AE) G-Core Labs Customer assignment\r",
-        "\ud83c\udde6\ud83c\uddea (AE) Zenlayer Inc\r",
-        "\ud83c\udde6\ud83c\uddea (AE) Oracle Svenska AB\r",
-        "\ud83c\udde6\ud83c\uddea (AE) 3nt solutions LLP\r",
-        "\ud83c\udde6\ud83c\uddea (AE) 3NT SOLUTIONS LLP\r",
-        "\ud83c\udde6\ud83c\uddea (AE) Amazon Data Services UAE\r",
-        "\ud83c\udde6\ud83c\uddea (AE) IROKO Networks Corporation\r",
-        "\ud83c\udde6\ud83c\uddea (AE) ITEL\r",
-        "\ud83c\udde6\ud83c\uddea (AE) Private Customer\r",
-        "\ud83c\udde6\ud83c\uddea (AE) BlueVPS OU\r",
-        "\ud83c\udde6\ud83c\uddea (AE) ITGLOBAL COM DMCC\r",
-        "\ud83c\udde6\ud83c\uddf1 (AL) Albanian Hosting SH.P.K. t/a AlbHost SH.P.K.\r",
-        "\ud83c\udde6\ud83c\uddf2 (AM) Proitlab LLC\r",
-        "\ud83c\udde6\ud83c\uddf2 (AM) GLOBAL CONNECTIVITY SOLUTIONS LLP\r",
-        "direct",
-        "block"
+        "\ud83c\udf0e FR - OVHcloud #1",
+        "\ud83c\udf0e FR - OVHcloud #2",
+        "\ud83c\udf0e DE - TalkTalk #3",
+        "\ud83c\udf0e SE - Aeza International #4",
+        "\ud83c\udf0e DE - Aeza International #5",
+        "\ud83c\udf0e NL - WebHorizon Internet Services #6",
+        "\ud83c\udf0e NL - SERVA ONE LTD #7",
+        "\ud83c\udf0e FR - OVHcloud #8",
+        "\ud83c\udf0e GB - Aeza International #9",
+        "\ud83c\udf0e KR - KT #10",
+        "direct"
       ]
     },
     {
       "type": "selector",
       "tag": "WhatsApp",
       "outbounds": [
-        "\ud83c\udde6\ud83c\udde9 (AD) Andorra Telecom\r",
-        "\ud83c\udde6\ud83c\uddea (AE) Oracle Corporation\r",
-        "\ud83c\udde6\ud83c\uddea (AE) UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED\r",
-        "\ud83c\udde6\ud83c\uddea (AE) G-Core Labs Customer assignment\r",
-        "\ud83c\udde6\ud83c\uddea (AE) Zenlayer Inc\r",
-        "\ud83c\udde6\ud83c\uddea (AE) Oracle Svenska AB\r",
-        "\ud83c\udde6\ud83c\uddea (AE) 3nt solutions LLP\r",
-        "\ud83c\udde6\ud83c\uddea (AE) 3NT SOLUTIONS LLP\r",
-        "\ud83c\udde6\ud83c\uddea (AE) Amazon Data Services UAE\r",
-        "\ud83c\udde6\ud83c\uddea (AE) IROKO Networks Corporation\r",
-        "\ud83c\udde6\ud83c\uddea (AE) ITEL\r",
-        "\ud83c\udde6\ud83c\uddea (AE) Private Customer\r",
-        "\ud83c\udde6\ud83c\uddea (AE) BlueVPS OU\r",
-        "\ud83c\udde6\ud83c\uddea (AE) ITGLOBAL COM DMCC\r",
-        "\ud83c\udde6\ud83c\uddf1 (AL) Albanian Hosting SH.P.K. t/a AlbHost SH.P.K.\r",
-        "\ud83c\udde6\ud83c\uddf2 (AM) Proitlab LLC\r",
-        "\ud83c\udde6\ud83c\uddf2 (AM) GLOBAL CONNECTIVITY SOLUTIONS LLP\r",
         "direct",
         "Internet",
         "Best Latency",
-        "Lock Region ID",
-        "block"
+        "Lock Region ID"
       ]
     },
     {
       "type": "selector",
       "tag": "GAMESMAX(ML/FF/AOV)",
       "outbounds": [
-        "\ud83c\udde6\ud83c\udde9 (AD) Andorra Telecom\r",
-        "\ud83c\udde6\ud83c\uddea (AE) Oracle Corporation\r",
-        "\ud83c\udde6\ud83c\uddea (AE) UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED\r",
-        "\ud83c\udde6\ud83c\uddea (AE) G-Core Labs Customer assignment\r",
-        "\ud83c\udde6\ud83c\uddea (AE) Zenlayer Inc\r",
-        "\ud83c\udde6\ud83c\uddea (AE) Oracle Svenska AB\r",
-        "\ud83c\udde6\ud83c\uddea (AE) 3nt solutions LLP\r",
-        "\ud83c\udde6\ud83c\uddea (AE) 3NT SOLUTIONS LLP\r",
-        "\ud83c\udde6\ud83c\uddea (AE) Amazon Data Services UAE\r",
-        "\ud83c\udde6\ud83c\uddea (AE) IROKO Networks Corporation\r",
-        "\ud83c\udde6\ud83c\uddea (AE) ITEL\r",
-        "\ud83c\udde6\ud83c\uddea (AE) Private Customer\r",
-        "\ud83c\udde6\ud83c\uddea (AE) BlueVPS OU\r",
-        "\ud83c\udde6\ud83c\uddea (AE) ITGLOBAL COM DMCC\r",
-        "\ud83c\udde6\ud83c\uddf1 (AL) Albanian Hosting SH.P.K. t/a AlbHost SH.P.K.\r",
-        "\ud83c\udde6\ud83c\uddf2 (AM) Proitlab LLC\r",
-        "\ud83c\udde6\ud83c\uddf2 (AM) GLOBAL CONNECTIVITY SOLUTIONS LLP\r",
         "direct",
         "Internet",
         "Best Latency",
-        "Lock Region ID",
-        "block"
+        "Lock Region ID"
       ]
     },
     {
       "type": "selector",
       "tag": "Route Port Game",
       "outbounds": [
-        "\ud83c\udde6\ud83c\udde9 (AD) Andorra Telecom\r",
-        "\ud83c\udde6\ud83c\uddea (AE) Oracle Corporation\r",
-        "\ud83c\udde6\ud83c\uddea (AE) UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED\r",
-        "\ud83c\udde6\ud83c\uddea (AE) G-Core Labs Customer assignment\r",
-        "\ud83c\udde6\ud83c\uddea (AE) Zenlayer Inc\r",
-        "\ud83c\udde6\ud83c\uddea (AE) Oracle Svenska AB\r",
-        "\ud83c\udde6\ud83c\uddea (AE) 3nt solutions LLP\r",
-        "\ud83c\udde6\ud83c\uddea (AE) 3NT SOLUTIONS LLP\r",
-        "\ud83c\udde6\ud83c\uddea (AE) Amazon Data Services UAE\r",
-        "\ud83c\udde6\ud83c\uddea (AE) IROKO Networks Corporation\r",
-        "\ud83c\udde6\ud83c\uddea (AE) ITEL\r",
-        "\ud83c\udde6\ud83c\uddea (AE) Private Customer\r",
-        "\ud83c\udde6\ud83c\uddea (AE) BlueVPS OU\r",
-        "\ud83c\udde6\ud83c\uddea (AE) ITGLOBAL COM DMCC\r",
-        "\ud83c\udde6\ud83c\uddf1 (AL) Albanian Hosting SH.P.K. t/a AlbHost SH.P.K.\r",
-        "\ud83c\udde6\ud83c\uddf2 (AM) Proitlab LLC\r",
-        "\ud83c\udde6\ud83c\uddf2 (AM) GLOBAL CONNECTIVITY SOLUTIONS LLP\r",
         "direct",
         "Internet",
         "Best Latency",
-        "Lock Region ID",
-        "block"
+        "Lock Region ID"
       ]
     },
     {
       "type": "selector",
       "tag": "Option ADs",
       "outbounds": [
-        "\ud83c\udde6\ud83c\udde9 (AD) Andorra Telecom\r",
-        "\ud83c\udde6\ud83c\uddea (AE) Oracle Corporation\r",
-        "\ud83c\udde6\ud83c\uddea (AE) UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED\r",
-        "\ud83c\udde6\ud83c\uddea (AE) G-Core Labs Customer assignment\r",
-        "\ud83c\udde6\ud83c\uddea (AE) Zenlayer Inc\r",
-        "\ud83c\udde6\ud83c\uddea (AE) Oracle Svenska AB\r",
-        "\ud83c\udde6\ud83c\uddea (AE) 3nt solutions LLP\r",
-        "\ud83c\udde6\ud83c\uddea (AE) 3NT SOLUTIONS LLP\r",
-        "\ud83c\udde6\ud83c\uddea (AE) Amazon Data Services UAE\r",
-        "\ud83c\udde6\ud83c\uddea (AE) IROKO Networks Corporation\r",
-        "\ud83c\udde6\ud83c\uddea (AE) ITEL\r",
-        "\ud83c\udde6\ud83c\uddea (AE) Private Customer\r",
-        "\ud83c\udde6\ud83c\uddea (AE) BlueVPS OU\r",
-        "\ud83c\udde6\ud83c\uddea (AE) ITGLOBAL COM DMCC\r",
-        "\ud83c\udde6\ud83c\uddf1 (AL) Albanian Hosting SH.P.K. t/a AlbHost SH.P.K.\r",
-        "\ud83c\udde6\ud83c\uddf2 (AM) Proitlab LLC\r",
-        "\ud83c\udde6\ud83c\uddf2 (AM) GLOBAL CONNECTIVITY SOLUTIONS LLP\r",
         "block",
-        "Internet",
-        "direct"
+        "Internet"
       ]
     },
     {
       "type": "selector",
       "tag": "Option P0rn",
       "outbounds": [
-        "\ud83c\udde6\ud83c\udde9 (AD) Andorra Telecom\r",
-        "\ud83c\udde6\ud83c\uddea (AE) Oracle Corporation\r",
-        "\ud83c\udde6\ud83c\uddea (AE) UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED\r",
-        "\ud83c\udde6\ud83c\uddea (AE) G-Core Labs Customer assignment\r",
-        "\ud83c\udde6\ud83c\uddea (AE) Zenlayer Inc\r",
-        "\ud83c\udde6\ud83c\uddea (AE) Oracle Svenska AB\r",
-        "\ud83c\udde6\ud83c\uddea (AE) 3nt solutions LLP\r",
-        "\ud83c\udde6\ud83c\uddea (AE) 3NT SOLUTIONS LLP\r",
-        "\ud83c\udde6\ud83c\uddea (AE) Amazon Data Services UAE\r",
-        "\ud83c\udde6\ud83c\uddea (AE) IROKO Networks Corporation\r",
-        "\ud83c\udde6\ud83c\uddea (AE) ITEL\r",
-        "\ud83c\udde6\ud83c\uddea (AE) Private Customer\r",
-        "\ud83c\udde6\ud83c\uddea (AE) BlueVPS OU\r",
-        "\ud83c\udde6\ud83c\uddea (AE) ITGLOBAL COM DMCC\r",
-        "\ud83c\udde6\ud83c\uddf1 (AL) Albanian Hosting SH.P.K. t/a AlbHost SH.P.K.\r",
-        "\ud83c\udde6\ud83c\uddf2 (AM) Proitlab LLC\r",
-        "\ud83c\udde6\ud83c\uddf2 (AM) GLOBAL CONNECTIVITY SOLUTIONS LLP\r",
         "block",
-        "Internet",
-        "direct"
+        "Internet"
       ]
     },
     {
-      "type": "direct",
-      "tag": "bypass"
-    },
-    {
-      "tag": "\ud83c\udde6\ud83c\udde9 (AD) Andorra Telecom\r",
-      "type": "trojan",
-      "server": "quiz.int.vidio.com",
+      "tag": "\ud83c\udf0e FR - OVHcloud #1",
+      "type": "vless",
+      "server": "stbwrt.web.id",
       "server_port": 443,
-      "password": "b568e95e-efa4-4daf-857e-3c9a3e237079",
+      "uuid": "c6d3f558-81ef-4d90-b974-ee393e585a12",
       "network": "ws",
       "tls": {
         "enabled": true,
-        "server_name": "quiz.int.vidio.com.admin.ari-andika2.site",
+        "server_name": "stbwrt.web.id",
         "insecure": false,
         "disable_sni": false
       },
       "transport": {
         "type": "ws",
-        "websocket_path": "/91.187.93.166-443",
-        "websocket_headers": {
-          "Host": "quiz.int.vidio.com.admin.ari-andika2.site"
-        },
-        "grpc_service_name": ""
+        "path": "/Inconigto-Mode/141.94.205.22-8443",
+        "headers": {
+          "Host": "stbwrt.web.id"
+        }
       }
     },
     {
-      "tag": "\ud83c\udde6\ud83c\uddea (AE) Oracle Corporation\r",
-      "type": "trojan",
-      "server": "quiz.int.vidio.com",
+      "tag": "\ud83c\udf0e FR - OVHcloud #2",
+      "type": "vless",
+      "server": "stbwrt.web.id",
       "server_port": 443,
-      "password": "837d906f-545a-447e-92c5-c79a7ea229d9",
+      "uuid": "c6d3f558-81ef-4d90-b974-ee393e585a12",
       "network": "ws",
       "tls": {
         "enabled": true,
-        "server_name": "quiz.int.vidio.com.admin.ari-andika2.site",
+        "server_name": "stbwrt.web.id",
         "insecure": false,
         "disable_sni": false
       },
       "transport": {
         "type": "ws",
-        "websocket_path": "/139.185.50.5-14594",
-        "websocket_headers": {
-          "Host": "quiz.int.vidio.com.admin.ari-andika2.site"
-        },
-        "grpc_service_name": ""
+        "path": "/Inconigto-Mode/152.228.135.239-2053",
+        "headers": {
+          "Host": "stbwrt.web.id"
+        }
       }
     },
     {
-      "tag": "\ud83c\udde6\ud83c\uddea (AE) UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED\r",
-      "type": "trojan",
-      "server": "quiz.int.vidio.com",
+      "tag": "\ud83c\udf0e DE - TalkTalk #3",
+      "type": "vless",
+      "server": "stbwrt.web.id",
       "server_port": 443,
-      "password": "32c43f0d-beda-464e-8e00-67b336b1cc9a",
+      "uuid": "c6d3f558-81ef-4d90-b974-ee393e585a12",
       "network": "ws",
       "tls": {
         "enabled": true,
-        "server_name": "quiz.int.vidio.com.admin.ari-andika2.site",
+        "server_name": "stbwrt.web.id",
         "insecure": false,
         "disable_sni": false
       },
       "transport": {
         "type": "ws",
-        "websocket_path": "/152.32.181.246-44070",
-        "websocket_headers": {
-          "Host": "quiz.int.vidio.com.admin.ari-andika2.site"
-        },
-        "grpc_service_name": ""
+        "path": "/Inconigto-Mode/89.168.83.143-8443",
+        "headers": {
+          "Host": "stbwrt.web.id"
+        }
       }
     },
     {
-      "tag": "\ud83c\udde6\ud83c\uddea (AE) G-Core Labs Customer assignment\r",
-      "type": "trojan",
-      "server": "quiz.int.vidio.com",
+      "tag": "\ud83c\udf0e SE - Aeza International #4",
+      "type": "vless",
+      "server": "stbwrt.web.id",
       "server_port": 443,
-      "password": "8ba8bede-8d7d-4742-a7a1-86cb2d8f6e1d",
+      "uuid": "c6d3f558-81ef-4d90-b974-ee393e585a12",
       "network": "ws",
       "tls": {
         "enabled": true,
-        "server_name": "quiz.int.vidio.com.admin.ari-andika2.site",
+        "server_name": "stbwrt.web.id",
         "insecure": false,
         "disable_sni": false
       },
       "transport": {
         "type": "ws",
-        "websocket_path": "/217.195.200.138-443",
-        "websocket_headers": {
-          "Host": "quiz.int.vidio.com.admin.ari-andika2.site"
-        },
-        "grpc_service_name": ""
+        "path": "/Inconigto-Mode/89.22.224.221-2053",
+        "headers": {
+          "Host": "stbwrt.web.id"
+        }
       }
     },
     {
-      "tag": "\ud83c\udde6\ud83c\uddea (AE) Zenlayer Inc\r",
-      "type": "trojan",
-      "server": "quiz.int.vidio.com",
+      "tag": "\ud83c\udf0e DE - Aeza International #5",
+      "type": "vless",
+      "server": "stbwrt.web.id",
       "server_port": 443,
-      "password": "8c8224f5-fb5b-484d-9e4e-9f9b8daf3993",
+      "uuid": "c6d3f558-81ef-4d90-b974-ee393e585a12",
       "network": "ws",
       "tls": {
         "enabled": true,
-        "server_name": "quiz.int.vidio.com.admin.ari-andika2.site",
+        "server_name": "stbwrt.web.id",
         "insecure": false,
         "disable_sni": false
       },
       "transport": {
         "type": "ws",
-        "websocket_path": "/98.98.236.58-15608",
-        "websocket_headers": {
-          "Host": "quiz.int.vidio.com.admin.ari-andika2.site"
-        },
-        "grpc_service_name": ""
+        "path": "/Inconigto-Mode/85.192.63.127-2053",
+        "headers": {
+          "Host": "stbwrt.web.id"
+        }
       }
     },
     {
-      "tag": "\ud83c\udde6\ud83c\uddea (AE) Oracle Svenska AB\r",
-      "type": "trojan",
-      "server": "quiz.int.vidio.com",
+      "tag": "\ud83c\udf0e NL - WebHorizon Internet Services #6",
+      "type": "vless",
+      "server": "stbwrt.web.id",
       "server_port": 443,
-      "password": "aa042c9e-0ccd-4598-911e-75f00dbbccd3",
+      "uuid": "c6d3f558-81ef-4d90-b974-ee393e585a12",
       "network": "ws",
       "tls": {
         "enabled": true,
-        "server_name": "quiz.int.vidio.com.admin.ari-andika2.site",
+        "server_name": "stbwrt.web.id",
         "insecure": false,
         "disable_sni": false
       },
       "transport": {
         "type": "ws",
-        "websocket_path": "/84.235.245.18-34501",
-        "websocket_headers": {
-          "Host": "quiz.int.vidio.com.admin.ari-andika2.site"
-        },
-        "grpc_service_name": ""
+        "path": "/Inconigto-Mode/194.5.97.156-443",
+        "headers": {
+          "Host": "stbwrt.web.id"
+        }
       }
     },
     {
-      "tag": "\ud83c\udde6\ud83c\uddea (AE) 3nt solutions LLP\r",
-      "type": "trojan",
-      "server": "quiz.int.vidio.com",
+      "tag": "\ud83c\udf0e NL - SERVA ONE LTD #7",
+      "type": "vless",
+      "server": "stbwrt.web.id",
       "server_port": 443,
-      "password": "c1a17c35-4b6a-463b-87d3-e2fe9b99e5c6",
+      "uuid": "c6d3f558-81ef-4d90-b974-ee393e585a12",
       "network": "ws",
       "tls": {
         "enabled": true,
-        "server_name": "quiz.int.vidio.com.admin.ari-andika2.site",
+        "server_name": "stbwrt.web.id",
         "insecure": false,
         "disable_sni": false
       },
       "transport": {
         "type": "ws",
-        "websocket_path": "/176.97.66.175-443",
-        "websocket_headers": {
-          "Host": "quiz.int.vidio.com.admin.ari-andika2.site"
-        },
-        "grpc_service_name": ""
+        "path": "/Inconigto-Mode/89.42.142.95-8443",
+        "headers": {
+          "Host": "stbwrt.web.id"
+        }
       }
     },
     {
-      "tag": "\ud83c\udde6\ud83c\uddea (AE) 3NT SOLUTIONS LLP\r",
-      "type": "trojan",
-      "server": "quiz.int.vidio.com",
+      "tag": "\ud83c\udf0e FR - OVHcloud #8",
+      "type": "vless",
+      "server": "stbwrt.web.id",
       "server_port": 443,
-      "password": "ee5f2ad3-9e22-439c-b44b-9fb8f3db463f",
+      "uuid": "c6d3f558-81ef-4d90-b974-ee393e585a12",
       "network": "ws",
       "tls": {
         "enabled": true,
-        "server_name": "quiz.int.vidio.com.admin.ari-andika2.site",
+        "server_name": "stbwrt.web.id",
         "insecure": false,
         "disable_sni": false
       },
       "transport": {
         "type": "ws",
-        "websocket_path": "/38.180.11.201-443",
-        "websocket_headers": {
-          "Host": "quiz.int.vidio.com.admin.ari-andika2.site"
-        },
-        "grpc_service_name": ""
+        "path": "/Inconigto-Mode/45.112.195.216-2053",
+        "headers": {
+          "Host": "stbwrt.web.id"
+        }
       }
     },
     {
-      "tag": "\ud83c\udde6\ud83c\uddea (AE) Amazon Data Services UAE\r",
-      "type": "trojan",
-      "server": "quiz.int.vidio.com",
+      "tag": "\ud83c\udf0e GB - Aeza International #9",
+      "type": "vless",
+      "server": "stbwrt.web.id",
       "server_port": 443,
-      "password": "5600a901-7494-4404-b599-87f1c1f5628e",
+      "uuid": "c6d3f558-81ef-4d90-b974-ee393e585a12",
       "network": "ws",
       "tls": {
         "enabled": true,
-        "server_name": "quiz.int.vidio.com.admin.ari-andika2.site",
+        "server_name": "stbwrt.web.id",
         "insecure": false,
         "disable_sni": false
       },
       "transport": {
         "type": "ws",
-        "websocket_path": "/3.28.62.7-443",
-        "websocket_headers": {
-          "Host": "quiz.int.vidio.com.admin.ari-andika2.site"
-        },
-        "grpc_service_name": ""
+        "path": "/Inconigto-Mode/83.147.254.245-443",
+        "headers": {
+          "Host": "stbwrt.web.id"
+        }
       }
     },
     {
-      "tag": "\ud83c\udde6\ud83c\uddea (AE) IROKO Networks Corporation\r",
-      "type": "trojan",
-      "server": "quiz.int.vidio.com",
+      "tag": "\ud83c\udf0e KR - KT #10",
+      "type": "vless",
+      "server": "stbwrt.web.id",
       "server_port": 443,
-      "password": "ec82a96f-fefe-4985-837c-8c90d11c47cd",
+      "uuid": "c6d3f558-81ef-4d90-b974-ee393e585a12",
       "network": "ws",
       "tls": {
         "enabled": true,
-        "server_name": "quiz.int.vidio.com.admin.ari-andika2.site",
+        "server_name": "stbwrt.web.id",
         "insecure": false,
         "disable_sni": false
       },
       "transport": {
         "type": "ws",
-        "websocket_path": "/176.97.78.80-2053",
-        "websocket_headers": {
-          "Host": "quiz.int.vidio.com.admin.ari-andika2.site"
-        },
-        "grpc_service_name": ""
+        "path": "/Inconigto-Mode/220.71.199.115-21312",
+        "headers": {
+          "Host": "stbwrt.web.id"
+        }
       }
-    },
-    {
-      "tag": "\ud83c\udde6\ud83c\uddea (AE) ITEL\r",
-      "type": "trojan",
-      "server": "quiz.int.vidio.com",
-      "server_port": 443,
-      "password": "3fcdfa14-f2bb-4f14-9b03-bbdde784a162",
-      "network": "ws",
-      "tls": {
-        "enabled": true,
-        "server_name": "quiz.int.vidio.com.admin.ari-andika2.site",
-        "insecure": false,
-        "disable_sni": false
-      },
-      "transport": {
-        "type": "ws",
-        "websocket_path": "/87.248.129.26-443",
-        "websocket_headers": {
-          "Host": "quiz.int.vidio.com.admin.ari-andika2.site"
-        },
-        "grpc_service_name": ""
-      }
-    },
-    {
-      "tag": "\ud83c\udde6\ud83c\uddea (AE) Private Customer\r",
-      "type": "trojan",
-      "server": "quiz.int.vidio.com",
-      "server_port": 443,
-      "password": "4830fa9e-9572-43a7-b58f-38e85a054d47",
-      "network": "ws",
-      "tls": {
-        "enabled": true,
-        "server_name": "quiz.int.vidio.com.admin.ari-andika2.site",
-        "insecure": false,
-        "disable_sni": false
-      },
-      "transport": {
-        "type": "ws",
-        "websocket_path": "/85.237.211.59-8443",
-        "websocket_headers": {
-          "Host": "quiz.int.vidio.com.admin.ari-andika2.site"
-        },
-        "grpc_service_name": ""
-      }
-    },
-    {
-      "tag": "\ud83c\udde6\ud83c\uddea (AE) BlueVPS OU\r",
-      "type": "trojan",
-      "server": "quiz.int.vidio.com",
-      "server_port": 443,
-      "password": "181eceb2-bde4-4063-80d8-0bb0de4414fc",
-      "network": "ws",
-      "tls": {
-        "enabled": true,
-        "server_name": "quiz.int.vidio.com.admin.ari-andika2.site",
-        "insecure": false,
-        "disable_sni": false
-      },
-      "transport": {
-        "type": "ws",
-        "websocket_path": "/45.86.228.104-443",
-        "websocket_headers": {
-          "Host": "quiz.int.vidio.com.admin.ari-andika2.site"
-        },
-        "grpc_service_name": ""
-      }
-    },
-    {
-      "tag": "\ud83c\udde6\ud83c\uddea (AE) ITGLOBAL COM DMCC\r",
-      "type": "trojan",
-      "server": "quiz.int.vidio.com",
-      "server_port": 443,
-      "password": "2100140e-dfb4-47eb-865d-1b95b68c0e43",
-      "network": "ws",
-      "tls": {
-        "enabled": true,
-        "server_name": "quiz.int.vidio.com.admin.ari-andika2.site",
-        "insecure": false,
-        "disable_sni": false
-      },
-      "transport": {
-        "type": "ws",
-        "websocket_path": "/185.209.49.17-2053",
-        "websocket_headers": {
-          "Host": "quiz.int.vidio.com.admin.ari-andika2.site"
-        },
-        "grpc_service_name": ""
-      }
-    },
-    {
-      "tag": "\ud83c\udde6\ud83c\uddf1 (AL) Albanian Hosting SH.P.K. t/a AlbHost SH.P.K.\r",
-      "type": "trojan",
-      "server": "quiz.int.vidio.com",
-      "server_port": 443,
-      "password": "249f2b2e-dd10-4db3-a9c0-b59763502e6e",
-      "network": "ws",
-      "tls": {
-        "enabled": true,
-        "server_name": "quiz.int.vidio.com.admin.ari-andika2.site",
-        "insecure": false,
-        "disable_sni": false
-      },
-      "transport": {
-        "type": "ws",
-        "websocket_path": "/31.41.33.215-4333",
-        "websocket_headers": {
-          "Host": "quiz.int.vidio.com.admin.ari-andika2.site"
-        },
-        "grpc_service_name": ""
-      }
-    },
-    {
-      "tag": "\ud83c\udde6\ud83c\uddf2 (AM) Proitlab LLC\r",
-      "type": "trojan",
-      "server": "quiz.int.vidio.com",
-      "server_port": 443,
-      "password": "a6a78f2e-1da5-4f72-a1ef-6ae892d39b69",
-      "network": "ws",
-      "tls": {
-        "enabled": true,
-        "server_name": "quiz.int.vidio.com.admin.ari-andika2.site",
-        "insecure": false,
-        "disable_sni": false
-      },
-      "transport": {
-        "type": "ws",
-        "websocket_path": "/2.56.206.114-2053",
-        "websocket_headers": {
-          "Host": "quiz.int.vidio.com.admin.ari-andika2.site"
-        },
-        "grpc_service_name": ""
-      }
-    },
-    {
-      "tag": "\ud83c\udde6\ud83c\uddf2 (AM) GLOBAL CONNECTIVITY SOLUTIONS LLP\r",
-      "type": "trojan",
-      "server": "quiz.int.vidio.com",
-      "server_port": 443,
-      "password": "bf670b64-2859-4b85-93b3-60314f675091",
-      "network": "ws",
-      "tls": {
-        "enabled": true,
-        "server_name": "quiz.int.vidio.com.admin.ari-andika2.site",
-        "insecure": false,
-        "disable_sni": false
-      },
-      "transport": {
-        "type": "ws",
-        "websocket_path": "/194.156.103.58-41210",
-        "websocket_headers": {
-          "Host": "quiz.int.vidio.com.admin.ari-andika2.site"
-        },
-        "grpc_service_name": ""
-      }
-    },
-    {
-      "type": "dns",
-      "tag": "dns-out"
     },
     {
       "type": "direct",
       "tag": "direct"
     },
     {
+      "type": "direct",
+      "tag": "bypass"
+    },
+    {
       "type": "block",
       "tag": "block"
+    },
+    {
+      "type": "dns",
+      "tag": "dns-out"
     }
   ],
   "route": {
